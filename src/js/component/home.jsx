@@ -19,7 +19,7 @@ const usuarios =[
   {
       Nombre: "user",
       Apellidos:"",
-      email:"Antonio@hotmail.es",
+      email:"user@hotmail.es",
       userName:"user",
       contraseña:"user",
       urlfoto: " https://concepto.de/wp-content/uploads/2018/10/bosque2-e1539893598295.jpg"
