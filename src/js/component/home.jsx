@@ -17,11 +17,11 @@ const usuarios =[
   urlfoto: " https://concepto.de/wp-content/uploads/2018/10/bosque2-e1539893598295.jpg"
   },
   {
-      Nombre: "Antonio",
+      Nombre: "user",
       Apellidos:"",
       email:"Antonio@hotmail.es",
-      userName:"Antonio",
-      contraseña:"1111",
+      userName:"user",
+      contraseña:"user",
       urlfoto: " https://concepto.de/wp-content/uploads/2018/10/bosque2-e1539893598295.jpg"
   }, 
   ]
